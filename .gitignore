@@ -3,5 +3,5 @@ __pycache__/
 *.py[cod]
 
 # Ipython checkpoints
-**/.ipynb_checkpoints
-**/**/ipynb_checkpoints
+**/.ipynb_checkpoints/
+**/__pychae__/
