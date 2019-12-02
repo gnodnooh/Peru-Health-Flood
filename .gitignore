@@ -5,3 +5,7 @@ __pycache__/
 # Ipython checkpoints
 **/.ipynb_checkpoints/
 **/__pychae__/
+
+# Data larger than 100MB
+**/fhv/data/road_osm.*
+**/fhv/data/education_institution/*
